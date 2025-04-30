@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eda62ea7-992e-451f-94fb-742db991b9db)# Lambda Function in Python: Addition of Two Numbers
+# Lambda Function in Python: Addition of Two Numbers
 
 ## 🎯 Aim
 To write a Python program that defines a **lambda function** which takes two arguments `a` and `b`, and returns their sum.
