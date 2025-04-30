@@ -39,6 +39,7 @@ for i in range(rows):
     print()
 ```
 ## Sample Output
+![Screenshot 2025-04-30 161054](https://github.com/user-attachments/assets/80b335d2-4d41-44ff-8d73-a8850c89710c)
 
 ## Result
-
+Thus,the python program Code Execution Successful 
